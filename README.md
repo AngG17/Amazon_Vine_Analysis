@@ -2,6 +2,7 @@
 
 ## Overview
 
+The purpose of this analysis was to analyze the reviews written by members of the paid Amazon Vine program.  After the dataset was created, a determination is to be made as to whether there is any bias toward favorable reviews from Vine members in the dataset.
 
 ## Results
 
@@ -37,3 +38,8 @@ Paid:
 Unpaid:
 
 ![percent 5star unpaid reviews](https://user-images.githubusercontent.com/95720986/162636591-46f3ab27-0062-4d00-85df-a97c98661ae8.png)
+
+
+## Summary
+
+51% of the reviews in the Vine program were 5 stars, compared to only 39% on non-Vine reviews having 5 stars.  This shows a positivity bias in Vine users.  
