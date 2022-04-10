@@ -2,7 +2,7 @@
 
 ## Overview
 
-The purpose of this analysis was to analyze the reviews written by members of the paid Amazon Vine program.  After the dataset was created, a determination is to be made as to whether there is any bias toward favorable reviews from Vine members in the dataset.
+The purpose of this analysis was to analyze the reviews written by members of the paid Amazon Vine program.  After the dataset was created, a determination is to be made as to whether there is any bias toward favorable reviews from Vine members in the dataset.  For this analysis, I chose video games.
 
 ## Results
 
@@ -42,4 +42,6 @@ Unpaid:
 
 ## Summary
 
-51% of the reviews in the Vine program were 5 stars, compared to only 39% on non-Vine reviews having 5 stars.  This shows a positivity bias in Vine users.  
+51% of the reviews in the Vine program were 5 stars, compared to only 39% of non-Vine reviews having 5 stars.  This shows a positivity bias in Vine users when reviewing video games.  
+
+An analysis of another type of product would be helpful to see if the same type of bias applies to other categories.  The interests and likes of a Vine user could influence the bias of a review, as they may be reviewing product they may not purchase on their own.  
